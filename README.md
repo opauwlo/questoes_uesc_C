@@ -3,20 +3,20 @@
 ---
 
   
-## 📋 Descrição
+## 📋 Description
 
-### Opa chefe!
+### Hi!
 
-#### Somente umas questões que respondi pra universidade.
+#### Just a few questions i answered for the  university.
 
 ---
 
 
-## 🖥️ Tecnologias
+## 🖥️ Technologies
 
 - C
 
-## 🎨 Projetos
+## 🎨 Projects
 
-*✓ Finalizado*
+*✓ Finished*
 
