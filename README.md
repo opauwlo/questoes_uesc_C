@@ -3,7 +3,7 @@
 ---
 
   
-## 📋 Descrição/
+## 📋 Descrição
 
 ### Opa chefe!
 
