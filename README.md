@@ -1,4 +1,4 @@
-# Qestões C
+# Questions C
 
 ---
 
